@@ -24,5 +24,3 @@ The project Github repositories exporer is mobile responsive and able to search 
 4.  I'm fetching the api to get the user, and the repositories of each users
 5.  I created error validation, when user fail fetch teh data
 6.  I test the app with jest
-# github-repostiories-explorer
-# github-repostiories-explorer
